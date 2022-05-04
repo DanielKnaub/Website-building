@@ -1,0 +1,18 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif;}
+h1,h3 {  text-align: center; text-shadow: 6px 4px 1px rgba(0,0,0,0.2);}
+img {  border: none; border-radius: 10px;}
+#photo {  margin: 0 auto;  width: 530px;
+  height: 480px;  position: relative;}
+#photo a {  background-color: White;  border: solid 1px Black;  padding: 10px;  position: absolute; box-shadow: 5px 5px 1px rgba(0,0,0,0.4); border-radius: 10px;}
+#photo a:hover {  z-index: 1;  top: 40px;}
+#menu {  margin: 0 auto;  margin: auto;
+  width: 600px;}
+#menu ul {  margin: 0px;
+  padding: 0px;}
+#menu ul li {  text-align: center;  border-top: solid 1px Grey;
+  border-bottom: solid 1px Grey;  width: 200px;  display: inline;
+  float: left;
+  list-style-type: none;}
+#menu ul li a {  line-height: 20px;
+  text-decoration: none;  color: Black;  height: 20px;  display: block}
+#menu ul li a:hover {  background-color: #AC0102;  color: Grey;}

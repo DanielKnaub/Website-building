@@ -1,0 +1,15 @@
+body {  font-family: Trebuchet MS, sans-serif;
+  color: White;
+  background-color: Black;}
+h1 {  font-family: Comic Sans MS, cursive;
+  font-style: italic;
+  text-align: center;
+  color: Red;}
+#left_menu {  text-align: left;   vertical-align: top;  width: 20%;}
+#info {  text-align: justify;  vertical-align: top;}
+#right_menu {  text-align: right;  vertical-align: top;  width: 20%;}
+#footer {  text-align: right;}
+a:link    {  color: White;}
+a:visited {  color: White;}
+a:active  {  color: White;}
+a:cover   {  color: Red;}
